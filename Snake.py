@@ -32,7 +32,6 @@ def init_vars():
     score = 0
     speed = 15
 
-
 init_vars()
 
 def show_score_speed(color, font, size):
